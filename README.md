@@ -12,5 +12,8 @@ I think it looks mighty fine, if I do say so myself. The images are all built in
 
 ![Computer_Opponent](ComputerOpponent.png?raw=true "Computer_Opponent")
 
-![TieGame](TieGames.png?raw=true "Tie_Game")
+Most of the time, when I play against the smart computer, the game ends in a tie.
 
+It feels a little odd to have created something as smart as I am, even if it is just a Tic-Tac-Toe game.
+
+There are a few tricks up my sleve that I may want to teach the computer in the future.  However, the best next step is probably to keep statistics.
