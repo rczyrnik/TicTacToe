@@ -10,7 +10,7 @@ But I had just written the beginnings of a "Space Invaders" program using the py
 
 I think it looks mighty fine, if I do say so myself. The images are all built in my favorite image editor: Power Point.
 
-![Computer_Opponent](ComputerOpponent.png?raw=true "Computer_Opponent")
+<img src="ComputerOpponent.png" alt="Computer_Opponent" width="800px"/>
 
 Most of the time, when I play against the smart computer, the game ends in a tie.
 
