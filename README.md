@@ -1,6 +1,6 @@
 # TicTacToe
 
-I've been distracted for the past while with this website, and some stats, and of course work stuff (most seniors finished school yesterday!), so it felt good to be working on a Python project after a too-long break.
+(copied from my website)
 
 This program has three options: two people can play, a person can play against an opponent that plays randomly, or a person can play against an opponent with a bit of intelligence.
 
